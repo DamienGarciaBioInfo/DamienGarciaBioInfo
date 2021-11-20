@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DamienGarciaBioInfo
+- 👀 I’m interested in Bioinformatics, de novo protein design and of course biology.
+- 🌱 I’m currently learning Bioinformatics and Biostatistics (M1BB in University of Nantes - France).
+- 📫 How to reach me : damien.garcia@etu.univ-nantes.fr
